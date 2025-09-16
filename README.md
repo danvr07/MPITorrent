@@ -36,5 +36,3 @@ Dupa ce s au descarcat toate segmentele si fisierul este intreg il salvam.
 Dupa ce s au descarcat toate fisierele trimtiem "FINISH"
    4.    Upload asteapta mesaje de la tracker sau de la alti clienti si in cazul clientilor verifica 
 existenta hash ului primit in propriile fisiere detinute si trimite un mesaj corespunzator.
-
-Cu drag Vrinceanu Dan 334CD
